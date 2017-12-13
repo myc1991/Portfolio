@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/myc1991/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[image](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1513174272&di=863a6ea25e237780e0213509526099b6&src=http://imgsrc.baidu.com/imgad/pic/item/4610b912c8fcc3cee3015c189845d688d53f20d3.jpg)
+![image](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1513174272&di=863a6ea25e237780e0213509526099b6&src=http://imgsrc.baidu.com/imgad/pic/item/4610b912c8fcc3cee3015c189845d688d53f20d3.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
